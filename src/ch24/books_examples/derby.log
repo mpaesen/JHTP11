@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Nov 01 12:21:06 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0166-cf01-63ca-00000e76b750 
+on database directory /Users/mpaesen/git/JHTP11/src/ch24/books_examples/books with class loader sun.misc.Launcher$AppClassLoader@7440e464 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=/Users/mpaesen/git/JHTP11/src/ch24/books_examples
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Nov 01 12:21:41 CET 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Nov 01 12:21:41 CET 2018:
+Shutting down instance a816c00e-0166-cf01-63ca-00000e76b750 on database directory /Users/mpaesen/git/JHTP11/src/ch24/books_examples/books with class loader sun.misc.Launcher$AppClassLoader@7440e464 
+----------------------------------------------------------------
